@@ -1,0 +1,30 @@
+PODS:
+  - FSPagerView (0.8.3)
+  - Nuke (9.1.2)
+  - Realm (10.1.1):
+    - Realm/Headers (= 10.1.1)
+  - Realm/Headers (10.1.1)
+  - RealmSwift (10.1.1):
+    - Realm (= 10.1.1)
+
+DEPENDENCIES:
+  - FSPagerView
+  - Nuke (~> 9.0)
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - FSPagerView
+    - Nuke
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  Nuke: dd2e6be6a34c042a7861e190632781d11f253026
+  Realm: 784ca1da1453e31a9c9adc14445421a81f316119
+  RealmSwift: cc52fe0dcea56387274dff36e19219e055a3bb84
+
+PODFILE CHECKSUM: f95a00670370e51da4caafbe392e83d43b580308
+
+COCOAPODS: 1.10.0
